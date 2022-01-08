@@ -31,6 +31,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+
+
+https://user-images.githubusercontent.com/56946868/148634446-633c4a4b-a91e-4f5a-9880-9c296ae03aa7.mov
+
+
+
+
+
 <img src='https://gfycat.com/sarcasticflustereddarwinsfox.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' width="40" height="40" />
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/0Fn9wY1" data-context="false" ><a href="//imgur.com/a/0Fn9wY1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
